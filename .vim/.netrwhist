@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/peedee/projects/cottononsingapore/cottonon/apps/cartridge_extras'
+let g:netrw_dirhist_2='/home/peedee/projects/cottonon/cottonon/cartridge/shop/management'
+let g:netrw_dirhist_3='/home/peedee/projects/crown-jewels/AWS'
+let g:netrw_dirhist_4='/home/peedee/projects/cottononsingapore/cottonon/cottonon.index'
+let g:netrw_dirhist_5='/home/peedee/projects/cottononsingapore/cottonon/apps/rdws/management/commands'
